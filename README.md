@@ -1,7 +1,7 @@
 # js-music-player
 This is a simple User Interface of a music player created in HTML, CSS and JavaScript.
 
-![Output](/output/html-css.png)
+![Output](http://funbot.rf.gd/)
 
 ## Running the player
 
